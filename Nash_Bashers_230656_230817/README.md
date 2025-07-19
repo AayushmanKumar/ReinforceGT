@@ -80,10 +80,10 @@ This notebook implements a game-theoretic approach to option pricing using Nash 
 
 The final output is a table like:
 
-| expiry      | strike | market_price | nash_price | error | relative_error_% |
-|-------------|--------|--------------|------------|-------|------------------|
-| 2024-06-21  | 200    | 5.25         | 5.10       | -0.15 | -2.86            |
-| ...         | ...    | ...          | ...        | ...   | ...              |
+| expiry      | strike | market_price | nash_price | error |
+|-------------|--------|--------------|------------|-------|
+| 2024-06-21  | 200    | 5.25         | 5.10       | -0.15 |
+| ...         | ...    | ...          | ...        | ...   |
 
 ---
 
